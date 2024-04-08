@@ -1,0 +1,32 @@
+# Dependency directories
+/node_modules
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build output
+/dist
+
+# Parcel cache and logs
+.cache
+.parcel-cache
+parcel-debug.log
+
+# Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# npm package-lock
+package-lock.json
